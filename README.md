@@ -51,3 +51,9 @@ This repository provides a full configuration solution for the following tasks:
 
 <img width="2434" height="822" alt="image" src="https://github.com/user-attachments/assets/cb640600-b3d3-4cb9-9002-1b81eb87ef8f" />
 <img width="964" height="424" alt="image" src="https://github.com/user-attachments/assets/65216ea3-b424-4d45-9a79-960aa87021c9" />
+
+# Conclusion
+
+Both routers had an administrative distance of 120 with a metric of 1. The metric of 1 is better than 2. Metric values are assigned by routing protocol. 
+
+
